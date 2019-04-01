@@ -1,2 +1,2 @@
 # java-src
-Just some java app
+Just some java app for using database transactions.
